@@ -1,0 +1,8 @@
+{
+  "name": "Titliii by Arham",
+  "description": "Premium birthday campaign engine with Cloudinary image/audio uploads and Google Sheets integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
